@@ -1,0 +1,6 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    padding-inline-start: 148px;
+    padding-inline-end: 148px;
+}
