@@ -1,0 +1,13 @@
+.place__paragraph {
+    font-family: "Inter", sans-serif;
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 163%;
+
+    width: 484px;
+
+    /* grid-area: paragraph; */
+}
+
