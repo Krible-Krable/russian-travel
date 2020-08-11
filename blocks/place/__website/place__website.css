@@ -1,7 +1,5 @@
 .place__website {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-
-    /* grid-area: website; */
+    justify-content: flex-end;
 }

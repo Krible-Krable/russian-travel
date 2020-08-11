@@ -6,8 +6,11 @@
     font-size: 18px;
     line-height: 163%;
 
-    width: 484px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
 
-    /* grid-area: paragraph; */
+.place__paragraph:not(:last-child) {
+    margin-bottom: 24px;
 }
 
