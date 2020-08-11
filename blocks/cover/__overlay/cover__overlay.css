@@ -1,0 +1,16 @@
+.cover__overlay {
+    background-image: url('./../../../image/cover-trains.jpg');
+    height: 740px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    transition: opacity .2s ease;
+}
+
+.cover:hover .cover__overlay {
+    opacity: 0.5;
+}
