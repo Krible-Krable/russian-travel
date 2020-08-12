@@ -1,4 +1,13 @@
 .header__lang {
     display: flex;
-    align-items: flex-end;
+    /* align-items: flex-end; */
+    align-items: center;
 }
+
+@media (max-width: 320px) {
+    .header__lang {
+        display: flex;
+        align-items: center;
+    }
+}
+
