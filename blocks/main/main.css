@@ -4,3 +4,24 @@
     padding-inline-start: 148px;
     padding-inline-end: 148px;
 }
+
+@media (max-width: 1024px) {
+    .main {
+        padding-inline-start: 48px;
+        padding-inline-end: 48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .main {
+        padding-inline-start: 42px;
+        padding-inline-end: 24px;
+    }
+}
+
+@media (max-width: 320px) {
+    .main {
+        padding-inline-start: 16px;
+        padding-inline-end: 16px;
+    }
+}

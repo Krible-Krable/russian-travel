@@ -1,7 +1,6 @@
 .header__lang {
     display: flex;
-    /* align-items: flex-end; */
-    align-items: center;
+    align-items: flex-end;
 }
 
 @media (max-width: 320px) {
