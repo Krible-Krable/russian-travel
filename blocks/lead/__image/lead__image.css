@@ -1,5 +1,5 @@
 .lead__image {
-    background-image: url('./../../../image/lead-polka.jpg');
+    background-image: url('./../../../image/lead-polka_figma.jpg');
     background-repeat: no-repeat;
     background-position: center;
     min-height: 615px;
@@ -21,7 +21,7 @@
     }
 }
 
-@media (min-width: 320px) and (max-width: 665px) {
+@media (max-width: 320px) and (max-width: 767px) {
     .lead__image {
         min-height: 200px;
         margin: 0 -24px 4px;

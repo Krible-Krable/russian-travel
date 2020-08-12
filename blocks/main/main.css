@@ -14,7 +14,7 @@
 
 @media (max-width: 768px) {
     .main {
-        padding-inline-start: 42px;
+        padding-inline-start: 24px;
         padding-inline-end: 24px;
     }
 }
