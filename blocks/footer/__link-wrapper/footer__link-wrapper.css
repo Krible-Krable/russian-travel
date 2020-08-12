@@ -1,0 +1,6 @@
+.footer__link-wrapper {
+
+}
+.footer__link-wrapper:not(:last-child) {
+    margin-right: 18px;
+}

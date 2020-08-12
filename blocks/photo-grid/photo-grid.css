@@ -6,3 +6,5 @@
     width: 92.5vw;
     margin: 0 -100px 92px;
 }
+
+/* grid-template-columns: repeat(auto-fit, minmax(284px, 1fr)); */

@@ -1,6 +1,5 @@
 .cover__overlay {
     background-image: url('./../../../image/cover-trains.jpg');
-    height: 740px;
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;

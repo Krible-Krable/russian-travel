@@ -1,11 +1,5 @@
 .footer__navigation-list {
     list-style: none;
-    font-family: "Inter", sans-serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 112%;
-    color: #fff;
     display: flex;
     flex-direction: row;
 
