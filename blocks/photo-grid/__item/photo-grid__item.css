@@ -2,3 +2,10 @@
     width: 284px;
     height: 213px;
 }
+
+@media (max-width: 1024px ) {
+    .photo-grid__item {
+        height: 225px;
+        width: 330px;
+    }
+}

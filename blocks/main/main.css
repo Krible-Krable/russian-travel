@@ -5,13 +5,13 @@
     padding-inline-end: 148px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
     .main {
         padding-inline-start: 48px;
         padding-inline-end: 48px;
     }
 }
-
+/* 
 @media (max-width: 768px) {
     .main {
         padding-inline-start: 24px;
@@ -24,4 +24,4 @@
         padding-inline-start: 16px;
         padding-inline-end: 16px;
     }
-}
+} */
