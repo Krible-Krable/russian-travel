@@ -26,7 +26,6 @@
 @media (max-width: 767px ) {
     .place {
         grid-template-columns: 1fr;
-        /* grid-template-rows:  */
         row-gap: 32px;
     }
     .place:not(:last-child) {
