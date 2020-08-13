@@ -6,6 +6,14 @@
     font-size: 72px;    
     line-height: 106%;
     margin: 0;
+    align-self: end;
 
     /* grid-area: title; */
+}
+
+@media (max-width: 1023px ) {
+    .place__title {
+        font-size: 42px;
+        line-height: 46px;
+    }
 }

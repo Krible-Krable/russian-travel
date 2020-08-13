@@ -11,14 +11,21 @@
         padding-inline-end: 48px;
     }
 }
-/* 
-@media (max-width: 768px) {
+ 
+@media (max-width: 1023px) {
     .main {
         padding-inline-start: 24px;
         padding-inline-end: 24px;
     }
 }
 
+@media (max-width: 767px) {
+    .main {
+        padding-inline-start: 16px;
+        padding-inline-end: 16px;
+    }
+}
+/* 
 @media (max-width: 320px) {
     .main {
         padding-inline-start: 16px;

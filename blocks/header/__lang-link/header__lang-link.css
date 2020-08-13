@@ -13,10 +13,11 @@
     margin-right: 18px;
 }
 
-@media (min-width: 320px) and (max-width: 767px) {
+@media (max-width: 767px) {
     .header__lang-link {
         font-size: 18px;
-        width: 29px;
-        height: 28px;
+        line-height: 24px;
+        width: 22px;
+        height: 24px;
     }
 }
