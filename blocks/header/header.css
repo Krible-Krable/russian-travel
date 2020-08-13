@@ -1,12 +1,10 @@
 .header {
     display: flex;
     justify-content: space-between;
-    width: 92.5vw; 
     height: 52px;
-    margin: auto;
-    padding-top: 28px; 
+    padding: 28px 48px 0;
 }
-
+/* 
 @media (max-width: 1024px) {
     .header {
         width: 90.6vw;
@@ -26,4 +24,4 @@
         width: 90vw;
         margin: 16px;
     }
-}
+} */

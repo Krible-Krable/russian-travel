@@ -15,7 +15,7 @@
 }
 
 
-@media (min-width: 320px) and (max-width: 767px) {
+/* @media (min-width: 320px) and (max-width: 767px) {
     .lead__title {
       font-weight: 900;
       font-size: 40px;
@@ -24,4 +24,4 @@
       min-height: 88px; 
       
     }
-} 
+}  */

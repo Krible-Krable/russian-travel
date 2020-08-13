@@ -1,11 +1,10 @@
 .photo-grid__item {
-    width: 284px;
-    height: 213px;
+    width: 100%;
 }
 
-@media (max-width: 1024px ) {
+/* @media (max-width: 1024px ) {
     .photo-grid__item {
         height: 225px;
         width: 330px;
     }
-}
+} */

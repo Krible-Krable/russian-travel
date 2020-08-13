@@ -1,12 +1,11 @@
 .lead {
     display: flex;
     flex-direction: column;
-    margin-top: 5.56vh;
-    /* margin-top: 56px; */
+    margin-top: 56px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
     .lead {
-        margin-top: 4.76vh;
+        margin-top: 48px;
     }
 }

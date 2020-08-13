@@ -11,8 +11,13 @@
     margin: 0 auto 64px; 
 }
 
+@media (max-width: 1279px) {
+    .lead__subtitle {
+        margin: 0 auto 56px;
+    }
+}
 
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
     .lead__subtitle{
         margin: 0 auto 56px; 
     }
@@ -27,4 +32,4 @@
         min-height: 40px;
         margin: 0 auto 40px; 
     }
-}
+} */
