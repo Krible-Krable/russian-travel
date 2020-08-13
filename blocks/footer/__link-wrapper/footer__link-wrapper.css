@@ -4,3 +4,9 @@
 .footer__link-wrapper:not(:last-child) {
     margin-right: 18px;
 }
+
+@media (max-width: 767px ) {
+    .footer__link-wrapper:not(:last-child) {
+        margin-bottom: 32px;
+    }
+}

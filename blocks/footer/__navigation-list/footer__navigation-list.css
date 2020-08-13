@@ -9,3 +9,10 @@
     
 }
 
+@media (max-width: 767px ) {
+    .footer__navigation-list {
+        flex-direction: column;
+        margin-block-end: 0;
+    }
+}
+

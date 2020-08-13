@@ -7,3 +7,9 @@
         margin-bottom: 88px;
     } 
 }
+
+@media (max-width: 767px ) {
+    .places {
+        margin-bottom: 64px;
+    } 
+}

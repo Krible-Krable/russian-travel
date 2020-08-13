@@ -7,20 +7,14 @@
     line-height: 107%;
 
     margin-block-start: 0;
-    margin-block-end: 42px;
+    margin-block-end: 40px;
 }
 
 
-@media (max-width: 768px ) {
-    .intro__title {
-        /* width: 720px; */
-    }
-}
-
-@media (min-width: 320px ) and (max-width: 379px) {
+@media (max-width: 767px ) {
     .intro__title {
         font-size: 32px;
-        line-height: 109%;
-        /* width: 288px; */
+        line-height: 35px;
     }
 }
+

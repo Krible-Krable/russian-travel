@@ -15,3 +15,9 @@
         margin: 0 -24px 88px;
     }
 }
+
+@media (max-width: 767px ) {
+    .cover {
+        margin: 0 -16px 97px;
+    }
+}

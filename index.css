@@ -41,23 +41,9 @@
 @import url('./blocks/footer/__link-wrapper/footer__link-wrapper.css');
 @import url('./blocks/footer/__link/footer__link.css');
 @import url('./blocks/footer/__copyright/footer__copyright.css');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
-@import url('');
 
 
-@media (max-width: ) {
-    . {
-        
-    }
-}
+
+
 
 

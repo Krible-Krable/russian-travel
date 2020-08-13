@@ -26,15 +26,12 @@
         margin: 0 0 88px;
     }
 }
-/* 
-@media (max-width: 768px) {
+
+@media (max-width: 767px) {
     .photo-grid {
-        
+        grid-template-columns: 288px;
+        grid-template-rows: repeat(12, 216px);
+        row-gap: 12px;
+        margin: 0 0 64px;
     }
 }
-
-@media (max-width: 320) {
-    .photo-grid {
-        
-    }
-} */

@@ -18,3 +18,10 @@
         height: 480px;
     }
 }
+
+@media (max-width: 767px ) {
+    .cover__link {
+        height: 200px;
+        
+    }
+}
